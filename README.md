@@ -1,3 +1,3 @@
 # deconstructing
 personal blog
-web
+web page
